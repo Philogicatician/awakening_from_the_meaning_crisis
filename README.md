@@ -2,6 +2,10 @@
 
 Notes to the [lecture series](https://www.youtube.com/playlist?list=PLND1JCRq8Vuh3f0P5qjrSdb5eC1ZfZwWJ).
 
+## Lecture Notes
+
+You can find the lecture note in the [lecture_notes]() directory.
+
 #### Background Painting
 
 Caspar David Friedrich: Wanderer above the Sea of Fog (German: Der Wanderer über dem Nebelmeer), 1818.
@@ -10,11 +14,13 @@ Caspar David Friedrich: Wanderer above the Sea of Fog (German: Der Wanderer übe
 
 ## Abbreviations and Acronyms
 
+`==`: equal
+
 `!=`: not equal
 
 `AOM`: active open-mindedness
 
-`cogsci`: Cognitive Science
+`CogSci, cogsci`: Cognitive Science
 
 `comb explosion`: combinatorial explosion
 

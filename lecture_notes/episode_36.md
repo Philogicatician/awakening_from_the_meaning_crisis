@@ -180,7 +180,7 @@ high | max self-reflection | losing agency | Hamlet
 optimal | process | agency | ...
 low | impulsiveness | losing agency | the wanton
 
-![RG-agency](/rg_agency.png "RG Agency")
+![RG-agency](data/rg_agency.png)
 
 __Structural aspect__:
 

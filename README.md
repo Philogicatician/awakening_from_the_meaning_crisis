@@ -4,9 +4,40 @@ Notes to the [lecture series](https://www.youtube.com/playlist?list=PLND1JCRq8Vu
 
 ## Lecture Notes
 
-You can find the lecture note in the [lecture_notes]() directory.
+You can find the lecture notes for episodes 2-50 in the [lecture notes](lecture_notes) directory.
 
-#### Background Painting
+## Glossary/Wiki
+
+An incomplete [glossary](gloss.md) attempt covering important and new concepts present throughout the series.
+May turn it into a wiki one day.
+
+## Summary Tables
+
+### Important Figures
+
+There is a [table](important_figures.md) which attempts to summarize the main thoughts of important thinkers (wrt the meaning crisis) since the axial age. It could help in seeing the arch of changes and influences.
+
+Columns:
+
++ Name of thinker/movement
++ Era/Movement
++ Influenced by
++ Criticises
++ Main claims
++ God(s)/Spirituality
+    + attitude towards God and spirituality
++ Love
++ Reason
+
+### Will
+
+[Table](will.md) on how the meaning of *will* had changed since the axial age.
+
+### Self-Deception
+
+A [collection](self-deception.md) of different approaches on how the process of self-deception/bullshiting works from the series.
+
+### Background Painting
 
 Caspar David Friedrich: Wanderer above the Sea of Fog (German: Der Wanderer über dem Nebelmeer), 1818.
 

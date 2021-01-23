@@ -1,5 +1,7 @@
 # Episode 03 - Continuous Cosmos and Modern World Grammar
+
 ## Recap
+
 + Upper Paleolithic Transition
     + metaphoric cognition
 + Neolithic Revolution
@@ -17,27 +19,28 @@
 + internalized, exapted to second order thinking
 + alphabetic literacy
     + Greeks:
-        * add vowels
-        * standardize left-to right reading
-        * --> more efficient, expansion of literacy
-        * enhanced distributed cognition, enhanced self-awareness
+        + add vowels
+        + standardize left-to right reading
+        + more efficient, expansion of literacy
+        + enhanced distributed cognition, enhanced self-awareness
 + internalized into meta-cognition (awareness of our cognition) --> second order thoughts
-    
+
 ### Changes in cognition
 
-+ enhanced awareness of 
++ enhanced awareness of
     + self-correction/transcendence
     + our capacity for self deception, illusion
     + meaning making nature of cognition
     + responsibility for violence, chaos, suffering
     + how transformation of mind & heart alleviates suffering
-    
+
 #### Changes in mythological framework
 
 + how people frame themselves and the world+ 'myth' used in the sense of:
-+ symbolic stories of perennial patterns that are always with us+ mythological is between literal and metaphorical
++ symbolic stories of perennial patterns that are always with us
++ mythological is between literal and metaphorical
 
-+ Bronze Age: 
++ __Bronze Age__: 
     + continuous cosmos, radical connectedness
     + continuity between the natural world and cultural/social world and divine world
     + difference are not in kind but power
@@ -48,8 +51,8 @@
         + time moves in large cycles (seasons, day-night)
         + people want to be in harmony with them (with rituals), not change it
         + people want to fit in the power structure
-        
-+ Axial Age:
+
++ __Axial Age__:
     + mythology of 2 worlds
     + everyday world
         + untrained mind, self-deception, self-destruction, illusion, violence, chaos
@@ -76,12 +79,13 @@ Axial Age | split of everyday and real worlds | knowing how to make the transfor
 
 ### Foreshadow of the Meaning Crisis
 
-+ axial age psychotechs of self-transcendence, wisdom, enhanced meaning+ axial age mythology is failing for us    
++ axial age psychotechs of self-transcendence, wisdom, enhanced meaning
++ axial age mythology is failing for us
     + scientific worldview is destroying it
     + Copernicus, Galileo, Darwin, Einstein re-embed us into the everyday/physical world
     + the 2 world mythology is no longer livable for us
 + main question: how do we salvage the ability of wisdom cultivation, self-transcendence
-    
+
 ### Ancient Israel
 
 + grammar of the Bible is the grammar of our cognition
@@ -124,43 +128,47 @@ Axial Age | split of everyday and real worlds | knowing how to make the transfor
     + or: at turning points: I know how to change
 + trespassing: being off course
     + Sin: original meaning: missing the mark
-        + shooting a bow and arrow: sense where you need to shoot    + self-deception+ open history: moving from the everyday world to the real world:
+        + shooting a bow and arrow: sense where you need to shoot
+    + self-deception
++ open history: moving from the everyday world to the real world:
 + historical story of moving towards the Promised Land
     + sin: steer the course of history away from its culmination
     + God has to intervene: to wake people up, move them back course
 + prophet:
     + telling forth
     + wakes you up right now to how you are off course
-    + increasing emphasis on the morality of human decision making+ moral responsibility of wake everybody up, and move toward the Promised Land
+    + increasing emphasis on the morality of human decision making
+    + moral responsibility of wake everybody up, and move toward the Promised Land
     + justice, righteousness
 + journey metaphor is endemic to how you think about yourself
     + life progresses, being stuck, etc.
-+ commitment to cultivation of wisdom of remembering God, participating in the ongoing creation of the world    
++ commitment to cultivation of wisdom of remembering God, participating in the ongoing creation of the world
     + helping yourself and your neighbours to progress
 + progress: moral improvement, increasing living up to your promise
-    
+
 ### Ancient Greece
 
-#### cognitive fluency:
+#### Cognitive Fluency
 
 + more fluency in info processing makes the info more real (regardless of the content)
-+ ~ reading example with color contrast (better or worse)+ increasing cognitive fluency gets an enhanced sense of being in touch with things/reality
++ ~ reading example with color contrast (better or worse)
++ increasing cognitive fluency gets an enhanced sense of being in touch with things/reality
 + lot of fluency --> flow state
 
-#### alphabet
+#### Alphabet
 
 + adding vowels
     + make processing "easier"
     + improve fluency of alphabetic literacy
 + standardized left to right reading
     + standard improve fluency of processing
-    
-#### city states
+
+#### City States
 
 + Athens: emergency of "democracy"
 + argumentation and debate become more important
 
-#### enhanced/sped up axial revolution of cognition
+#### Enhanced/sped up axial revolution of cognition
 
 + literacy
 + reason and reflection
@@ -169,7 +177,9 @@ Axial Age | split of everyday and real worlds | knowing how to make the transfor
 + developing/training the capacity for rational argumentation
 
 #### Pythagoras
-+ belongs to a group called "The Divine Men"+ shamanic training, 
+
++ belongs to a group called "The Divine Men"
+    + shamanic training, 
     + isolation in a cave
     + soul flight: psyche liberated from the body
 + discovers octave, rational proportions of the world
@@ -179,8 +189,8 @@ Axial Age | split of everyday and real worlds | knowing how to make the transfor
 + we are trapped in this world, but we can fly free above it: self-trancendence
     + rationally realized patterns will transform us
 + words:
-    + cosmos (!= universe): reveal the beauty of things (cosmetics)
-    
+    + cosmos (`!=` universe): reveal the beauty of things (cosmetics)
+
 #### Socrates
 
 + epitomizes the Greek axial revolution

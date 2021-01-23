@@ -25,9 +25,10 @@ Letter exchanges on reasoning, rationality:
         + behaving logically to get certainty in our truths
         + criticism of rationality by Descartes himself)
     + normativity, meaning, purpose are central to reasoning
-    + matter is inert, has no purpose, no meaning --> cant have a material reasoner
+    + matter is inert, has no purpose, no meaning
+		+ cannot have a material reasoner
     + science deals with how things are, not what ought, no normative structures
-    + cannot get purpose and meaning out of matterH: abacus, putting a sentence together: `cat on the mat`
+    + cannot get purpose and meaning out of matter: abacus, putting a sentence together: `cat on the mat`
 + D: no intrinsic meaning in material marks 
     + --> they only have meaning because they are associated with ideas in your mind; ideas possess meaning;
     + --> H's view on matter makes rationality problematic
@@ -35,32 +36,36 @@ Letter exchanges on reasoning, rationality:
 + rationality cares about meaning and normative standards
 + --> the notion of rationality is mysterious nowadays
 
-## D vs H - part II
-+ D: Galileo: math is the language of reality (<-- Plato)
+## Descartes vs Hobbes - part II
+
++ Descartes: Galileo: math is the language of reality (Plato)
     + primary properties: measurable, in the object - objective - matter
-    + secondary qualities: qualia. pain, beauty (only exist in the mind)  - subjective - mind
+    + secondary qualities: qualia. pain, beauty (only exist in the mind) - subjective - mind
 + qualia are central to consciousness
 + matter does not possess qualia, there is no way to generate qualia or consciousness from matter
-+ AI does not possess consciousness+ the mind is isolated, trapped inside itself
++ AI does not possess consciousness
++ the mind is isolated, trapped inside itself
 + doubt of everything
 + certainty:
     1. logical notion: deductive validity
     2. psychological notion: inability of doubt (eg. radical bigot)
     + --> D pushes 2. to the extreme, even doubting math
     + cannot doubt that he exists: in order to be subject to illusion, his mind must exists
-    + --> "cogito ergo sum" (statement not argument): 1. == 2.
+    + --> "cogito ergo sum" (statement not argument): `1. == 2.`
     + mind is only consciousness (mind touching itself), nothing else
         + I know I am conscious by being conscious
         + matter does not have that
 
 #### AI
+
 + weak: important, but does not advance our scientific understanding
 + strong: AGI: computer as an instance of mind, consciousness
 + how do we know if it succeeded ? 
     + --> I can refute D's objections (purpose, meaning consciousness, normativity, contact with realness)
     + open question
-    
-Problem with D's solution: existential cost
+
+Problem with Descartes' solution: existential cost
+
 + mind and matter are different, they share no properties
     + mind: purpose, truth, qualia, contact with itself
     + matter: space and time, force, energy transfer
@@ -70,7 +75,7 @@ Problem with D's solution: existential cost
     + D's makes the mind-matter/mind interaction impossible
     + --> you are cut off from yourself, taste of water is absurd
     + mind-mind interaction is impossible (paying attention of other body), how do I know other minds are not automaton
-    
+
 Dichotomy of realness (unstable grammar):
 
 + math --> is real --> **empiricism**

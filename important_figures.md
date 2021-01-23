@@ -22,24 +22,26 @@ Eckhart | Rheinland Mystics | Neoplatonics | | The eye by which I see God, is th
 which God sees me. | God descends to you, spirituality is a battle of wills (mine vs God's) | love is the way the will moves | 
 Ockham | Rheinland Mystics | | | nominalism, patterns are not there, language creates them | source of God's being is his will, speaks the world into existence, his assertions create | love is self-negation, sacrifice | the world is absurd, no rational order, no intelligibility; supernatural world has no reason
 Luther | Protestantism | Mystics | | God's will is arbitrary | | | 
-Copernicus | | | | math is better if the Sun is in the center| | | 
-Galileo | | | | cannot trust sensory experience, matter is inert, no purpose, will vs resistance to will | no purpose, no evil either; just inert matter| | math is the language of the universe,
-Descartes | Rationalism | Aristotle, Galileo | Hobbes | | | | mind is locked, searching for certainty
-Hobbes | Empricism | | Descartes | | | | cognition is computation
-Pascal | | | Descartes | | | | 
-Kant | Enlightment | | | rational vs irrational | | | rational
-Romantics | Romanticism | | Kant | | | | irrational, subconscious
+Copernicus | | | | math is better if the Sun is in the center | | | 
+Galileo | | | | cannot trust sensory experience, matter is inert, no purpose, will vs resistance to will | no purpose, no evil either; just inert matter | | math is the language of the universe,
+Descartes | Rationalism | Aristotle, Galileo | Hobbes, materialism | mind is locked, searching for certainty | | | reasoning is not pure logic, meaning/normativity/ought is involved in the search of truth
+Hobbes | Empricism | | Descartes | materialism | no soul in matter | | cognition is computation
+Pascal | | | Descartes | cosmos is infinite and frightening | has a religious trasfromative experience | | importance of finesse: procedural/perspectival/participatory knowings
+Kant | Enlightment | | | rational vs irrational | | | thing-in-itself is impossible to know
+Early Romantics | Romanticism | | | | | |
+Romantics | Romanticism | | Kant | autheniticity, expressing what is already there | we possess the true self | | irrational, subconscious
 Schopenhauer | | Hegel | | will to live is the only thing we have | | | 
-Nietzsche | | | | will to power | | | 
+Nietzsche | | | | will to power; staring into the abyss | | | 
 Hegel | Idealism | | | dialectic of ideas | | | rationality is the reality
-Kirkegard | | | Hegel | missing perpectival and participatory knowing| | | 
+Kirkegard | | | Hegel | missing perpectival and participatory knowing | | | 
 Feuerbach | | | Hegel | religion is a projection of our own humanity | | | 
 Marx | pseudo-religious ideologies | Feuerbach | Hegel | dialectic of classes | | | 
 Hitler | pseudo-religious ideologies | Gnostics, Luther | | dialectic of races | personal mythology: the struggle | | autodidact
-Husserl | Phenomenology | | | | |
-Heidegger | prophet | Gnostics, Eckhart | Husserl | Western philosophy leading to nihilism | ground of *Being*, *Dasein* | |
-Corbin | prophet | Mystics, Neoplatonism, Persian Sufism, Heidegger, Jung | fundamentalism/literalism | | | |
-Jung | prophet | Gnostics, Kant, Heidegger, Hegel | Corbin, Freud | process of individuation | | |
-Tillich | prophet | Heidegger, Gnostics | | | courage to be, how to live | God beyond the God of theism | |
-Barfield | prophet | Gnostics, Early Romantics | | poesis, participatory creativity | (non-)theism ?, inexhaustibleness | |
+Husserl | Phenomenology | | | contact epistemology | | | noesis-noema (agent-arena)
+Heidegger | prophet | Gnostics, Eckhart | Husserl | the history of metaphysics, is the history of nihilism; our being is the being whose being is in question | ground of *Being*, *Dasein*, being mode | | questing being: shining in and withdrawing
+Corbin | prophet | Mystics, Neoplatonism, Persian Sufism, Heidegger, Jung | fundamentalism/literalism | imaginal symbol | the angel/divine double/thing-beyng-itself | | thing-byong-itself: world discloses and withdraws
+Jung | prophet | Gnostics, Kant, Heidegger, Hegel | Corbin, Freud | process of individuation; active imagination; self-organizing model of the psyche; intrapsychic **practice** | heretic, mystic, probably non-theist | |
+Tillich | prophet | Heidegger, Gnostics | | | courage to be; how to live | God beyond the God of theism; God is no kind of thing, no-thingness | | 
+Barfield | prophet | Gnostics, Early Romantics | | poesis, participatory creativity | probably non-theist, inexhaustibleness | |
 Thinker | Era | Influenced by | Criticises | Main | God(s)/Spirituality | Love | Reason
+--- | --- | --- | --- | --- | --- | --- | ---

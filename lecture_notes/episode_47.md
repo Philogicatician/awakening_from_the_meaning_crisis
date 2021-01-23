@@ -22,7 +22,7 @@
 + independence of *Being* from our experience of it
 + how to get to the *deeper contact*
     + transcending phenomenology to drive towards *ontology*
-+ questioning/*questing* withing the *being mode* experienced as *wonder*
++ questioning/*questing* within the *being mode* experienced as *wonder*
     + no propositional answer
     + rather bringing a participatory transformation
 + *dasein*: being there / our being

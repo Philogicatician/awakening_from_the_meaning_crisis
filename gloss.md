@@ -1,18 +1,21 @@
 # Anagoge
 
- + ascent (spiral up) from the cave towards the Sun
++ from Plato
++ ascent (spiral up) from the cave towards the Sun
  
- ## Process
- 
- 1. attentional scaling
- 2. reality discloses itself in a new way: insight
- 3. that feeds back into the understanding of the self: self-transformation
- 5. cognitive processing becomes more powerful
- 6. interaction between new self and the new world
- 7. reality discloses itself in a new way
- 8. repeat: 3-7.
+## Process
+
+1. attentional scaling
+2. reality discloses itself in a new way: insight
+3. that feeds back into the understanding of the self: self-transformation
+5. cognitive processing becomes more powerful
+6. interaction between new self and the new world
+7. reality discloses itself in a new way
+8. repeat: 3-7.
 
 # Aporia
+
++ the state where Socrates leads you with his method of incessant questioning
 
 # Attentional Scaling
 
@@ -32,27 +35,46 @@
 + psychotechs: contemplation, breathing in, opening up
     + assimilation, compression, integration
 
-# Axial Age Revultion
-
 # Bleed
 
-When the boundary between player and character becomes transparent.
-
-# Cognitive/Upper Paleolithic Revolution
+When the boundary between player and character becomes transparent (from LARP).
 
 # Cultural Cognitive Grammar
 
-+ influence of Wittgenstein
++ term coined by the influence of Wittgenstein
+
+## Examples
+
++ two-world mythology (Old Testament)
++ God as a supreme/highest being (Old Testament)
++ mind-body, subject-object differentiation (Descartes)
++ uniqueness, specialness, authenticity, cultural narcissism (Luther, Romantics)
 
 # Dasein
 
-Heidegger
++ from Heidegger
++ German: being there
+    + the ground of being
 
 # Demiurge
 
-From Ancient Greek δημιουργός (dēmiourgós, “one who works for the people; a skilled workman, a handicraftsman”) (whence Latin dēmiūrgus, French démiurge), from δήμιος (dḗmios, “belonging to the people, public”) (from δῆμος (dêmos, “the people”), from Proto-Indo-European *deh₂mos (“people”), from *deh₂- (“to divide”) + Ancient Greek -ιος (-ios), from Proto-Indo-European *-yós (“suffix creating an adjective from a noun”)) + Ancient Greek -εργος (-ergos, “suffix indicating a worker”) (from ἔργον (érgon, “labour; task; work”), from Proto-Indo-European *wérǵom (“work”))
++ from Ancient Greek δημιουργός (dēmiourgós, "one who works for the people; a skilled workman, a handicraftsman")
+    + from δήμιος (dḗmios, "belonging to the people, public")
+        + from δῆμος (dêmos, "the people")
+            + from Proto-Indo-European *deh₂mos ("people")
+                + from *deh₂- ("to divide") + Ancient Greek -ιος (-ios)
+    + from Proto-Indo-European *-yós ("suffix creating an adjective from a noun") + Ancient Greek -εργος (-ergos, "suffix indicating a worker")
+        + from ἔργον (érgon, "labour; task; work")
+            + from Proto-Indo-European *wérǵom ("work")
+
+(Source: Wiktionary)
+
+# Dalectic
 
 # Divine Double
+
++ source of Corbin's angel.
++ Vervaeke calls it the *sacred second self*
 
 # Dynamical Systems Theory
 
@@ -63,19 +85,23 @@ From Ancient Greek δημιουργός (dēmiourgós, “one who works for the 
 
 # Exaptation
 
-## Tongue to Speech Organ
+## Examples
 
-## Fluency of Optimal Gripping Into Insight
+### Tongue to Speech Organ
 
-## Alphabetic Literacy to Second Order Thinking
+### Fluency of Optimal Gripping Into Insight
+
+### Alphabetic Literacy to Second Order Thinking
 
 + meta-cognition
 
-## Cerebellum: physical to conceptual balance/integration
+### Cerebellum: physical to conceptual balance/integration
 
-## Symbol as reverse exaptation process
+### Symbol as reverse exaptation process
 
 # Epektasis
+
++ infinite
 
 # Flow
 
@@ -85,11 +111,11 @@ From Ancient Greek δημιουργός (dēmiourgós, “one who works for the 
 
 # Imaginal
 
-Corbin
++ from Corbin
 
 # Individuation
 
-Jung
++ from Jung
 
 # Insight
 
@@ -98,6 +124,8 @@ Jung
 Free-form role-playing games designed by `Vi åker jeep` (*We go by Jeep*) group.
 
 # Kairos
+
++ right timing
 
 # Kinds of Knowing
 
@@ -109,8 +137,6 @@ Free-form role-playing games designed by `Vi åker jeep` (*We go by Jeep*) group
 ### Noesis
 ## Participatory
 ### Gnosis
-## Phronesis
-## Sophia
 
 + knowing by *being* (eg. being conscious)
 + knowing by *participating* in sth (eg. love)
@@ -185,6 +211,8 @@ Free-form role-playing games designed by `Vi åker jeep` (*We go by Jeep*) group
 Cardinal ancient Greek virtues:
 
 ## Wisdom
+### Phronesis
+### Sophia
 ## Justice
 ## Courage
 ## Sophrosyne

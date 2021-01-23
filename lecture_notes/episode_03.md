@@ -18,19 +18,19 @@
 + improved abstract symbolic thinking, mathematical reasoning
 + internalized, exapted to second order thinking
 + alphabetic literacy
-    + Greeks:
+    + Greeks:
         + add vowels
-        + standardize left-to right reading
-        + more efficient, expansion of literacy
+        + standardize left-to right reading
+        + more efficient, expansion of literacy
         + enhanced distributed cognition, enhanced self-awareness
 + internalized into meta-cognition (awareness of our cognition) --> second order thoughts
 
 ### Changes in cognition
 
 + enhanced awareness of
-    + self-correction/transcendence
+    + self-correction/transcendence
     + our capacity for self deception, illusion
-    + meaning making nature of cognition
+    + meaning making nature of cognition
     + responsibility for violence, chaos, suffering
     + how transformation of mind & heart alleviates suffering
 
@@ -41,14 +41,14 @@
 + mythological is between literal and metaphorical
 
 + __Bronze Age__: 
-    + continuous cosmos, radical connectedness
+    + continuous cosmos, radical connectedness
     + continuity between the natural world and cultural/social world and divine world
     + difference are not in kind but power
     + humans as divine (not metaphorically): pharaohs
     + reality is experienced in power
     + gods are just more powerful/glorious than us, not moral exemplars
     + cosmos moves in cycles (continuously) and repeat through eternity
-        + time moves in large cycles (seasons, day-night)
++ time moves in large cycles (seasons, day-night)
         + people want to be in harmony with them (with rituals), not change it
         + people want to fit in the power structure
 
@@ -57,19 +57,19 @@
     + everyday world
         + untrained mind, self-deception, self-destruction, illusion, violence, chaos
         + out of touch with reality
-    + real world
+    + real world
         + trained/wise mind seeing the world, no illusion/delusion
-        + in touch with reality
+        + in touch with reality
         + reduced suffering, violence
     + desire/drive to be in touch with reality
         + transform out of the everyday world
         + shamanic soul flight exapted into self-transcendence
     + wisdom: knowing how to make the transformative leap
-    + meaning: connectedness to the real world
+    + meaning: connectedness to the real world
     + self: how you can grow
         + we are pilgrims in the everyday world, we do not belong here
     + the great dis-embedding (from the everyday/physical world)
-    + new mythology of the 2 worlds
+    + new mythology of the 2 worlds
         + Plato: mythological representation of of the process of self-transcendence
 
 Era | Worlds | Wisdom | Meaning | Self | Time | God(s)
@@ -83,7 +83,7 @@ Axial Age | split of everyday and real worlds | knowing how to make the transfor
 + axial age mythology is failing for us
     + scientific worldview is destroying it
     + Copernicus, Galileo, Darwin, Einstein re-embed us into the everyday/physical world
-    + the 2 world mythology is no longer livable for us
+    + the 2 world mythology is no longer livable for us
 + main question: how do we salvage the ability of wisdom cultivation, self-transcendence
 
 ### Ancient Israel
@@ -96,7 +96,7 @@ Axial Age | split of everyday and real worlds | knowing how to make the transfor
     + beginning
     + climax, turning point
     + resolution
-    + direction, purpose
+    + direction, purpose
 + cosmic history
 + future is open: you can participate in the ongoing creation of it
     + your actions can change the future
@@ -107,8 +107,8 @@ Axial Age | split of everyday and real worlds | knowing how to make the transfor
 + Old Testament God is different
     + pre-axial gods: localized, tied in function
     + God is becoming more and more axial in the Old Testament
-    + God moves through time and space, has no name
-    + God is ongoing creation, and you can participate
+    + God moves through time and space, has no name
+    + God is ongoing creation, and you can participate
     + God is the open future: "I will be what I will be." 
     + God is the deity of: progress
         + analogy with your life: is your life moving forward : are you stuck ?
@@ -116,11 +116,11 @@ Axial Age | split of everyday and real worlds | knowing how to make the transfor
 + turning points: Kairos (Paul Tillich)
     + getting things at the right place and time to turn: back or further
 + DA'ATH (knowledge: Hebrew)
-    + Adam knew his wife Eve.
+    + Adam knew his wife Eve
     + sex is a metaphor of knowing: 
-    + participatory knowing:
+    + participatory knowing:
     + knowing by identifying with it
-        + you change it, while it changes you
+        + you change it, while it changes you
         + like a course of river
         + rises to a climax, turning point (kairos)
 + faith: sense of DA'ATH (not "believing ridiculous things for which there is no evidence")
@@ -128,8 +128,8 @@ Axial Age | split of everyday and real worlds | knowing how to make the transfor
     + or: at turning points: I know how to change
 + trespassing: being off course
     + Sin: original meaning: missing the mark
-        + shooting a bow and arrow: sense where you need to shoot
-    + self-deception
+        + shooting a bow and arrow: sense where you need to shoot
+    + self-deception
 + open history: moving from the everyday world to the real world:
 + historical story of moving towards the Promised Land
     + sin: steer the course of history away from its culmination
@@ -151,7 +151,7 @@ Axial Age | split of everyday and real worlds | knowing how to make the transfor
 #### Cognitive Fluency
 
 + more fluency in info processing makes the info more real (regardless of the content)
-+ ~ reading example with color contrast (better or worse)
++ reading example with color contrast (better or worse)
 + increasing cognitive fluency gets an enhanced sense of being in touch with things/reality
 + lot of fluency --> flow state
 
@@ -180,7 +180,7 @@ Axial Age | split of everyday and real worlds | knowing how to make the transfor
 
 + belongs to a group called "The Divine Men"
     + shamanic training, 
-    + isolation in a cave
+    + isolation in a cave
     + soul flight: psyche liberated from the body
 + discovers octave, rational proportions of the world
 + discovers mathematical patterns of the world that we are not directly aware of

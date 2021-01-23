@@ -118,7 +118,7 @@
     + every object is *shining* and *withdrawing* into its mystery
     + everything is a *thing beyond itself*
 + as the divine double binds too much to the mythoa/narratives/theism,
-    + it is better to use a non-theistic representation: the *sacred second self**
+    + it is better to use a non-theistic representation: the *sacred second self*
 
 ## Jung
 
@@ -172,7 +172,7 @@ Self
 
 + **ego** is the archetype of the **conscious mind**
 + **Self** is the *sacred second self*
-    + the idos of the idos / archetype of the archetype
+    + the idos of the idos / archetype of the archetypes
     + the virtual engine regulating the self-organization of the psyche as a whole
     + functioning and developing merged
         + aspirational
@@ -198,7 +198,7 @@ Self
 #### Jung's Fictional Criticism of Corbin/Heidegger
 
 + missing psychology:
-    + how does the existential//ontological/Neoplatonic process play out in the psyche
+    + how does the existential/ontological/Neoplatonic process play out in the psyche
     + how does the *imaginal* get *internalized* into the psyche
 
 #### Vervaeke's Suggestion

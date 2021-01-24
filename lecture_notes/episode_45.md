@@ -37,7 +37,7 @@
 1. wisdom (meta-virtue)
 2. justice
 3. courage
-4. sophrosyne (temperance, moderation) 
+4. *sophrosyne* (temperance, moderation) 
     + "Everything in moderation"
     + golden mean: a virtual engine that generates enabling/selective constraints
         + optimization
@@ -60,7 +60,7 @@
     + Augustine: `love God and do what you want`
         + when you have agape flowing through you, then you have sophrosyne:
             + you will be tempted to the good
-    + when being wise, your salience landscape naturally self-organizes towardsi
+    + when being wise, your salience landscape naturally self-organizes towards
         + seeing through illusion
         + zeroing on relevant info on how to become more virtuous and having a more meaningful life
 

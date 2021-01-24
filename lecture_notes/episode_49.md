@@ -29,7 +29,7 @@
 + A. Callard: transformation through aspiration is developmental
     + development is a linked sequence of insights that bring about qualitative change in competence
 
-### The Arpirational Process
+### The Aspirational Process
 
 + connection between **aspiration** and **rationality**
     + aspiration is part of the rational process

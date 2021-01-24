@@ -1,4 +1,4 @@
-Episode 21 - Martin Luther and Descartes
+# Episode 21 - Martin Luther and Descartes
 
 ## Recap
 

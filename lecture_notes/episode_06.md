@@ -52,7 +52,7 @@ Analogy with the development of living things:
 
 Why did the Newtonian model take over so quickly after the Aristotelian model ?
 
-+ ` A --> B --> C` prevents circular/emtpy explanations
++ ` A --> B --> C` prevents circular/empty explanations
 + circular explanation: the homuncular fallacy
     + using vision explaining vision
 + problem:

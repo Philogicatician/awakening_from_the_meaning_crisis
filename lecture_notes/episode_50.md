@@ -256,14 +256,14 @@ neither the autonomy of reason ------- nor a heteronomous/demonic imposition of 
 + **non-theism**
     + transcends **theism** and **atheism**
     + is an appropriate way to talk about Buddhism/Taoism
-    + is a rejection of presuppositions shared by theism and atheism
+    + is a rejection of *presuppositions* shared by theism and atheism
 
 presupposition | theist | atheist | non-theist
 --- | --- | --- | ---
-1. God is the Supreme Being | yes | accepts the statement, with a *no* truth value | rejects of the statement
-2. God is accessed through *belif* | yes | yes, but there is no access to be found | rejects
-3. theology and anti-theology do not require transformative *anagoge* |  agrees | agrees | rejects
-4. sacredness is personal or impersonal | personal | impersonal | transjective/participatory/aspirational
+God is the Supreme Being | yes | accepts the statement, with a *no* truth value | rejects of the statement
+God is accessed through *belief* | yes | yes, but there is no access to be found | rejects
+theology and anti-theology do not require transformative *anagoge* |  agrees | agrees | rejects
+sacredness is personal or impersonal | personal | impersonal | transjective/participatory/aspirational
 
 + presupposition 3:
     + all you have to to is *have/possess* the *propositions* and *infer* the correct implications
@@ -300,8 +300,8 @@ presupposition | theist | atheist | non-theist
         + **eduction** (to draw out), *education*
                 + discloses/reveals the *sacredness/transjectivity*, but never completely
                 + discloses the capacity of RR to adapt to the moreness
-		+ we experience/participate sacredness in **creativity** and in the flow of self-transcendence
-		    + **poesis/poetry**
+        + we experience/participate sacredness in **creativity** and in the flow of self-transcendence
+            + **poesis/poetry**
 
 #### Poesis
 
@@ -320,8 +320,8 @@ presupposition | theist | atheist | non-theist
 + the *division* between the two meanings replicates the Cartesian division between *objective* and *subjective*
 + historically the two meanings had a non-logical **identity**
     + and people who used this word in its inter-affording meanings, were engaged in a form of participation
-		+ the way of being *before* the Cartesian disjunction
-			+ anagogic/transjective resonance with reality
+        + the way of being *before* the Cartesian disjunction
+            + anagogic/transjective resonance with reality
 
 #### Meaning of Words
 
@@ -339,23 +339,23 @@ physical destructiona                         critical argumentation
 + we don't feel the two meanings as radically disjunctive
 + synonymy between *see* and *understand*
     + *see*
-	    1. experience visually
-	    2. comprehend
-	+ *understand*
-	    1. stand under
-	    2. comprehend
+        1. experience visually
+        2. comprehend
+    + *understand*
+        1. stand under
+        2. comprehend
 + according to Lakoff & Johnson this is not an *evolutionary* process,
-	+ but a *psychological* development within individuals
-	    + starting from sensory-motor *seeing*
-	    + taken up to conceptual sense of *seeing*
+    + but a *psychological* development within individuals
+        + starting from sensory-motor *seeing*
+        + taken up to conceptual sense of *seeing*
 + Vervaeke & Kennedy argued that the psychological development is deeper than represented in Lakoff & Johnson
     + missing *top-down* aspect (influence of Corbin)
-		+ *abstract sensory* and *concrete sensory* meet together in the **imaginal**
-		+ this is why two very different sensory-motor actions (standing under and seeing) can mean the same
+        + *abstract sensory* and *concrete sensory* meet together in the **imaginal**
+        + this is why two very different sensory-motor actions (standing under and seeing) can mean the same
 + cognitive re-exaptation (circuit reuse) of of the imaginal symbol
     + poesis
     + *idolatry*/literalism: forget the *justice* and focus on *having* balance
-		+ losing the iconic seeing through, and only look at the concrete
+        + losing the iconic seeing through, and only look at the concrete
 
 #### Meaning Crisis
 
@@ -365,8 +365,8 @@ physical destructiona                         critical argumentation
     + and then the meaning crisis
 + we have to move towards a *final participation*
     + as a response to the MC
-	+ recovery of participation integrated within the gains of rational sciences
-	    + recovery of the perspectival/participatory
+    + recovery of participation integrated within the gains of rational sciences
+        + recovery of the perspectival/participatory
 
 #### Criticism
 
@@ -377,25 +377,25 @@ physical destructiona                         critical argumentation
 
 + Heidegger taking from Eckhart and Luther:
     + *gelesenheit*: *letting* the rose *be* (complete passivity)
-		+ overcompensating for Descartes' notion of complete activity of mind
+        + overcompensating for Descartes' notion of complete activity of mind
 + Heidegger forgets *dirtbrook* (breakthrough) in Eckhart
     + *breakthrough*: attentional scaling:
-		+ breaking through the inappropriate framing
-		+ making a new frame
+        + breaking through the inappropriate framing
+        + making a new frame
 + Barfield's notion of poesis/creativity as participatory
     + *synergistic*: non-theist God plays the leading role, but we contribute
-		+ i.e. *DA'ATH*
-		    + we are not passive recipients of history
-		    + nor are we its complete authors
-		    + **we participate**
+        + i.e. *DA'ATH*
+            + we are not passive recipients of history
+            + nor are we its complete authors
+            + **we participate**
 
 ## Parting Words
 
 + scientific accounti/framework of RR can be put into a discourse/dialogue with:
-	+ spirituality
-	+ symbolism
-	+ sacredness
-	+ prophets of the MC
-	    + and afford critical & creative dialogue between them
-		+ and afford a potential synoptic integration
+    + spirituality
+    + symbolism
+    + sacredness
+    + prophets of the MC
+        + and afford critical & creative dialogue between them
+        + and afford a potential synoptic integration
 + this is what it means to **awaken from the meaning crisis**

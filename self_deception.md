@@ -1,8 +1,10 @@
-> The very machinery that makes you capaple of insight, also makes you susceptiple to self-deception, self-destructive behavior.
+# Self-Deception
+
+> The very machinery that makes you capable of insight, also makes you susceptible to self-deception, self-destructive behavior.
 
 ## Axial Age
 
-+ alpahbetic literacy
++ alphabetic literacy
     + externalize thought and reflect on it
     + --> second order thinking/metacognition
 + coinage
@@ -13,10 +15,10 @@
 
 ## Socrates
 
-Critices:
+Criticises:
 
-1. natural philosophers: truth, but no relevance, no self-transcendence
-2. sophists: relevance but no truth
+1. *natural philosophers*: truth, but no relevance, no self-transcendence
+2. *sophists*: relevance but no truth
 
 > The unexamined life is not worth living.
 
@@ -37,14 +39,14 @@ echoes and shadows | real patterns
 + man:
     + motivated by truth
     + works by in-depth analysis
-    
-Inner conflict when they are misaligned, not properly/optimally ordered.  
+
+Inner conflict when they are misaligned, not properly/optimally ordered.
 Inner conflict leads to self-deception, as we cannot see the world and ourselves clearly, only through the lens of the conflict (transparency of eg. thirst).
     + constant threat signal
 
 ## Gnostics
 
-+ rejection of punishing God, serving gods
++ rejection of punishing God or serving gods
 + participation in rituals, serious play
 + potential conspiracy: there must be an evil force at work
 
@@ -53,19 +55,19 @@ Inner conflict leads to self-deception, as we cannot see the world and ourselves
 ### Bullshit
 
 + relevant, salient, but not true
-+ eg. advertising, rhetorics
++ eg. advertising, rhetoric
 + a lie is st that's not true
 + making you uninterested in the truth value of a statement/claim
 + feedback cycle of:
     1. directing your attention to sth
     2. your attention is captured by sth salient
-    
+
 ### Hyperbolic/Temporal Discounting
 
 + things far in the future, or with less probability are less salient: 
    + adaptive but self-deceptive
 + hyperbolic discounting blinds us to less salient, but important/true things
-    
+
 ### Parasitic Processing
 
 #### Addiction
@@ -76,21 +78,23 @@ b. reciprocal narrowing
     + losing agency: self-deception/destruction
         + "you cannot pursue the goals you want to pursue in your life, you cannot establish and cultivate the relations you want to establish in your life, you cannot cultivate the kind of character or identity you aspire to"
 
-#### Eightfold path
+#### Eightfold Path
+
 + higher states can bring about transformations
 + can alleviate a) and b)
 
 ### Triviality vs Conspiracy Theory
-+ trustworthiness: produced by convergent, independent lines of research; coming from multiple senses
-    + != truth
-+ multi-aptness: 
-    + apt: when distance and identity between two domains of a methaphor is apt
-    + plausability, elegance
 
-+ triviality: trustworthiness, but no multi-aptness
-+ conspiracy: multi-aptness, but no trustworthiness
++ __trustworthiness__: produced by convergent, independent lines of research; coming from multiple senses
+    + `!= truth`
++ __multi-aptness__: 
+    + apt: when distance and identity between two domains of a metaphor is apt
+    + plausibility, elegance
++ __triviality__: trustworthiness, but no multi-aptness
++ __conspiracy__: multi-aptness, but no trustworthiness
 
 ## RR 
 
-+ product of RR != process of RR
-+ general mistake: getting fixated on the product of cognition, and not paying attention to the process of cognition
++ `product of RR != process of RR`
++ general mistake:
+    + getting fixated on the product of cognition, and not paying attention to the process of cognition

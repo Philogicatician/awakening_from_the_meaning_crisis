@@ -89,7 +89,17 @@ When the boundary between player and character becomes transparent (from LARP).
 
 (Source: Wiktionary)
 
-# Dalectic
+# Dialectic
+
++ from Hegel
+
+(Source: Wiktionary)
+
+#### Etymology
+
++ from διαλεκτικός (dialektikós, "relating to dialogue")
+    + from διαλέγομαι (dialégomai, "to participate in a dialogue")
+        + from διά (diá, "through, across") + λέγειν (légein, "to speak") 
 
 # Divine Double
 
@@ -101,23 +111,18 @@ When the boundary between player and character becomes transparent (from LARP).
 ## Meta-Accomodation
 ## Meta-Assimilation
 
-# Eukratia
-
 # Exaptation
 
 ## Examples
 
-### Tongue to Speech Organ
-
-### Fluency of Optimal Gripping Into Insight
-
-### Alphabetic Literacy to Second Order Thinking
-
-+ meta-cognition
-
-### Cerebellum: physical to conceptual balance/integration
-
-### Symbol as reverse exaptation process
++ tongue to speech organ
++ fluency of optimal gripping into insight
++ alphabetic literacy to second order thinking
+    + meta-cognition
++ cerebellum:
+    + physical to conceptual balance/integration
++ symbol:
+    + reverse exaptation process
 
 # Epektasis
 
@@ -127,17 +132,59 @@ When the boundary between player and character becomes transparent (from LARP).
 
 ## Descriptive Account (Csíkszentmihály)
 
++ people seek this state due to its intrinsic reward
++ appropriately and dynamically coupled with the environment
++ feel at one with the environment
+
 ## CogSci Account (Vervaeke)
+
++ already at the level of procedural knowing
++ ongoing discovery, insight cascade
++ optimal participatory knowing
++ enhanced perspectival knowing
++ enhanced feel of presence
++ egocentric propositional processing diminishes
 
 # Imaginal
 
 + from Corbin
++ the *imaginal* mediates/bridges between
+    + the *mind* and the *material*
+    + the *subjective* and the *objective*
++ the **imaginal** is
+    + *transjective*
+    + constant transformative transframing
+    + in motion
+    + use of images *transjectively* (not *subjectively*) in a way that it mediates/integrates the
+        + abstract intelligible world and
+        + concrete sensible world
++ in opponent relationship with the *imaginary*
+    + daydreaming, fantasizing
 
 # Individuation
 
 + from Jung
++ process of getting in touch the Self through psychoanalysis
+    + getting into the depth of the psyche
++ working with
+    + the shadow
+    + persona
+    + anima/animus
+    + ego
+    + archetypes
++ etymology is `in + divide`
+    + that which cannot be split into more pieces
+    + should not be interpreted literally
+
+#### Self
+
++ analogy: the Sun in the solar system
++ the persona to the ego is what the anima/animus is to the Self
 
 # Insight
+
++ scaling up attention and re-frame an old frame through implicit processing
++ does not happen at the propositional/conceptual level
 
 # Jeepform
 
@@ -158,14 +205,25 @@ Free-form role-playing games designed by `Vi åker jeep` (*We go by Jeep*) group
 ## Participatory
 ### Gnosis
 
-+ knowing by *being* (eg. being conscious)
-+ knowing by *participating* in sth (eg. love)
++ knowing by *being* (eg. by being conscious)
++ knowing by *participating* in sth (eg. in love)
 
 # Kinds of Love
 
 ## Eros
+
++ consuming love, uniting
++ like a child loves the parent
+
 ## Philia
+
++ cooperation
++ mutuality
+
 ## Agape
+
++ like the adult loves the child and makes them into a person
++ like God loves a person and makes them into a person
 
 # Metaphor
 
@@ -270,7 +328,7 @@ Cardinal ancient Greek virtues:
 
 + knowing of events/processes
 + practical wisdom, but not literal expertise
-+ in opponent relationship with [phronesis](### Sophia)
++ in opponent relationship with [phronesis](###Sophia)
 
 #### Etymology
 
@@ -282,16 +340,19 @@ Cardinal ancient Greek virtues:
 ### Sophia
 
 + knowing of the *principles*/facts
-+ in opponent relationship with [phronesis](### Phronesis)
++ in opponent relationship with [phronesis](###Phronesis)
 
 ## Justice
 ## Courage
 ## Sophrosyne
 
-+ *sophrosyne* is to have a [salience landscape](# Salience Landscape) that has gone through a fundamental reversal
++ *sophrosyne* is to have a [salience landscape](#Salience Landscape) that has gone through a fundamental reversal
     + less oriented towards the adult's self-deception
     + the sage has trained enough that they can just let things unfold naturally
     + you will be tempted to the good
++ in opponent relationship with *eukratia*
+    + self-restraint
+    + order of the good
 
 #### Etymology
 

@@ -99,5 +99,7 @@ Caspar David Friedrich: Wanderer above the Sea of Fog (German: Der Wanderer übe
 ## TODO's
 
 + reference episodes in gloss
++ reference episodes in genealogy table
 + add book recommendations per episode
 + add relevant Vervaeke papers
++ add notes of discussions on Jung and the symbol

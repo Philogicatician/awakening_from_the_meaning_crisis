@@ -42,9 +42,9 @@
 + systematization:
     + like in child development: new systems
 + internal development of *Geist* (like a child) through history:
-     + a) idea (thesis) 
-     + b) counter-idea (anti-thesis)
-     + c) higher integration (synthesis)
+     + a) idea (**thesis**) 
+     + b) counter-idea (**anti-thesis**)
+     + c) higher integration (**synthesis**)
      + c) starts the process all over again, recursively
      + *complexification*
      + **dialectic**
@@ -56,7 +56,7 @@
    + self-transcendence, development
    + more and more systematic making sense
 + reaching a point in history where the system of realization becomes aware of itself (H's hybris)
-+ --> absolute Geist/idealism
+	+ absolute Geist/idealism
 + rationality is a systematic process in the self-development of Geist
     + criticism: impersonal
 
@@ -84,7 +84,7 @@
 
 #### Mythology and Philosophy
 
-> What Understanding is to Reason, is Mythology to Philosophy
+> What Understanding is to Reason, Mythology is to Philosophy
 
 + __Father__
     + understanding un-differentiated, un-articulated, un-actualized (**thesis**)
@@ -101,10 +101,12 @@
 
 ### Criticism:
 
-+ secularizing of religion --> totalitarianism
++ secularizing of religion
+	+ danger of totalitarianism
 
-#### Schopenhauer: will to live is not addressed 
+#### Schopenhauer:
 
++ will to live is not addressed 
    + pushes to anti-religious existentialism
 
 #### Kierkegaard: 

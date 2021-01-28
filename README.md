@@ -85,9 +85,9 @@ Caspar David Friedrich: Wanderer above the Sea of Fog (German: Der Wanderer übe
 2. what is *openness of comportment* ? (Heidegger)
 3. more on the *cognitive-cultural grammar* (Wittgenstein)
 4. Heidegger:
-    + Sein is a German noun, always capitalized
+    + `Sein` is a German noun, always capitalized
     + withdrawing == becoming transparent in the process (eg. hammer)
-5. immediate vs developmental transformation
+5. immediate/sudden vs developmental/gradual transformation/realization
     + aspirational aspect of rationality: proleptic rationality
         + incremental/developmental changes
     + but: some Buddhists say that *wanting* realization is inherently impure, because
@@ -95,11 +95,14 @@ Caspar David Friedrich: Wanderer above the Sea of Fog (German: Der Wanderer übe
             + plus reaching a goal is still in the *having mode*
         + no matter how many levels you achieve in your practice,
             + you are not realizing what was already there right from the beginning
+6. what's the difference between alethea/sati/remembering the being mode and the Romantic expressing the true authentic self that has always been there ?
 
 ## TODO's
 
 + reference episodes in gloss
 + reference episodes in genealogy table
++ add network version of genealogy table
+    + at least for prophets
 + add book recommendations per episode
 + add relevant Vervaeke papers
 + add notes of discussions on Jung and the symbol

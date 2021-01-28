@@ -123,6 +123,10 @@ Nishitani | Nishida | Religion and Nothingness
         + wholesale adoption
         + wholesale demonization
 
+#### Drawing of the Prophet Network
+
+![RG-agency](../images/prophet_network.png)
+
 ## Husserl
 
 ### Phenomenology

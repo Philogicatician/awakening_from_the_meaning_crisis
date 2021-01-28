@@ -106,7 +106,7 @@ __Signal Detection Theory__
         + what you are paying attention to
     + Vervaeke (converging argument): one of the functions of consciousness is to do RR within perspectival knowing
 
-![The overlapping normal distributions of signal and noise.](../data/signal_vs_noise.png)
+![The overlapping normal distributions of signal and noise.](../images/signal_vs_noise.png)
 
 __Credo is setting the criterion on religio.__
 

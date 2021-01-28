@@ -43,7 +43,7 @@ plt.title("Signal vs Noise")
 plt.xlabel("Overlap")
 plt.setp(plt.gcf().get_axes(), xticks=[], yticks=[])
 
-plt.savefig("signal_vs_noise.png")
+plt.savefig("images/signal_vs_noise.png")
 #plt.show()
 
 if __name__ == '__main__':

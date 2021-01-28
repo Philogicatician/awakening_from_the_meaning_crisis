@@ -16,7 +16,7 @@ plt.xlabel('Reflectiveness Gap')
 plt.ylabel('Agency')
 plt.title('Gaining and Losing Agency through the Reflectiveness Gap')
 plt.setp(plt.gcf().get_axes(), xticks=[], yticks=[]);
-plt.savefig('rg_agency.png')
+plt.savefig('images/rg_agency.png')
 
 
 if __name__ == '__main__':

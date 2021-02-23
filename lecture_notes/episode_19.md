@@ -128,7 +128,7 @@ The three orders are interrelated:
 
 + 1054: __the great schism__
     + East: Plato, Neoplatonism, mystical theology
-	    + Avicenna
+        + Avicenna
     + West: Aristotle
         + Averros
 
@@ -144,11 +144,11 @@ The three orders are interrelated:
         + opening oneself to the text
         + remembering the being mode
 + __model of thought__:
-	+ thought is conforming to the world
-		+ (gnosis, anagoge)
-		+ self-transformation
-		+ model of knowing is also
-			+ the way of being/becoming
+    + thought is conforming to the world
+        + (gnosis, anagoge)
+        + self-transformation
+        + model of knowing is also
+            + the way of being/becoming
 + **extensive self**: connected to the world
 
 #### After
@@ -158,8 +158,8 @@ The three orders are interrelated:
     + looking for **coherence** (logical) in language
         + coherent propositional language: the way to know things
 + __model of thought__:
-	+ thought is to have coherent set of propositions in your head
-	    + **having mode**
+    + thought is to have coherent set of propositions in your head
+        + **having mode**
 + **intensive self**: inside my head
    + losing reading as a psychotechnology of psycho-spiritual-existential-transformation
        + rediscovering Aristotle:

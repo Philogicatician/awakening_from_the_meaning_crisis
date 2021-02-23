@@ -2,60 +2,92 @@
 
 ## Recap
 
-Changing:
-
-+ psychotech of reading:
-+ from participatory to consumption of info
-+ knowledge:
-+ from transformative conformity to the world to coherence between propositions
-
-__Two worlds__:
-
-+ **natural**: understood by reason
-+ **supernatural**: understood by faith
-+ love moves the will,
-+ will asserts propositions to be true
++ Augustine:
+    + integrating together the three orders
++ changes:
+    + psychotech of reading:
+        + from participatory to consumption of info
+    + knowledge:
+        + from transformative conformity to the world to coherence between propositions
++ Aquinas: __two real worlds__:
+    + **natural**: understood by reason
+    + **supernatural**: understood by faith
+        + *love* transforms/moves the *will*
+        + will asserts propositions to be true
+    + threat:
+        + as the supernatural world becomes less viable
+            + love separates from reason
+            + spirituality separates from science
 
 ## Meister Eckhart (1260-1328)
 
-+ influenced by Neoplatonism
-+ change in the normative order
-    + Neoplatonism: anagoge, conformity to the world, ascent to self-transcendence, wisdom
-    + Rheinland mystics: spirituality is God's descent to you
-         + Augustine: will moves the love
-         + Aquinas: love moves the will
-             +  will becomes central to your spirituality
-         + mystics: love is the way the will moves
-             + love is self-negation, sacrifice
-             + will negates itself
-             + to make space so god can dwell in me
-             + spirituality is a battle of wills (mine vs God's)
-+ model of god ~ model of yourself
++ influenced by Neoplatonism, Gnosticism
++ empty the self
+    + overcoming attachment to one's thinking/self-image
++ change in the *normative order*
+
+### Spirituality
+
++ Neoplatonism:
+    + anagoge
+    + conformity to the world
+    + ascent through reason: self-transcendence
+    + wisdom: educating yourself in self-transcendence to improve meaning in life
++ Augustine:
+    + will moves the love
+    + ascent
++ Aquinas:
+    + love moves the will
+    + will becomes central to your spirituality
++ Rheinland mystics:
+    + spirituality is God's descent to you
+        + precedence: *theurgy*
+    + love is the way the will moves
+        + love is self-negation/sacrifice
+        + will negates itself `==` love
+        + to make space so God can dwell in me
+        + spirituality is a battle of wills
+            + mine vs God's
+            + will negating its own self-assertion
+            + making a space for God to flow in
+        + self-negation/inner-conflict becomes central to spirituality
++ model of God `~` model of yourself
+    + grammar of God has woven into our culture/cognition
+        + belief in God is irrelevant
 
 ## Ockham (1287-1347)
 
 + __the source of God's being__
     + Augustine, Neoplatonism: **His reason**
-          + love --> creativity
+        + love: creativity
     + Ockham: **His will**
         + God's assertions create
         + ascent through reason is gone
-        + any order in existence is god'ss arbitrary will
-        + god speaks the world into existence
-* whatever pattern/category (eg. book) you find, you are making it by speaking about it, not by reasoning about it --> nominalism
-* patterns are not actually there
-* knowledge is just in the head, the way I'm using the language
-* there is no order in the world --> the world is absurd, not intellegible in itself
-* supernatural world is not reason or rational order
-
+        + any order in existence is God's arbitrary will
+        + God speaks the world into existence
++ **nominalism**
+    + whatever pattern/category (eg. book) you find
+        + you are making it by speaking about it
+        + not by reasoning about it
+	    	+ God is not bound by rationality/coherence
++ patterns are not actually there
++ knowledge is just in the head
+	+ the way I'm using the language
++ there is no order in the world
+    + order is only in the language
+    + the world is absurd, not intelligible in itself
++ supernatural world is not reason or rational order
 + love/spirituality is self-sacrifice, self-negation of will
 + only patterns/order in the world is how we speak about them
+    + there is no inherent suchness in things
++ God's will is arbitrary
+	+ humans are arbitrary
 
 ## Bubonic Plague
 
 + end of the world
 + broken social structures
-+ order given given/taken by god arbitrarily (power is arbitrary)
++ order given given/taken by God arbitrarily (power is arbitrary)
 
 ### Beginnings of Commercialism
 
@@ -68,11 +100,11 @@ __Two worlds__:
 
 ### New Psychotechs
 
-+ processing info better:
-+ Arabic numbers,
-+ negative numbers,
-+ celestial navigation
-+ Aristotelian way of thinking
++ processing information better:
+	+ Arabic numbers
+	+ negative numbers
+	+ celestial navigation
+	+ Aristotelian way of thinking
 
 #### New Secular Institutions
 
@@ -130,13 +162,13 @@ __Two worlds__:
 
 + __before__: pure being of chaos
 + __after__: evil just inert matter
-	+ or excessive immorality
+    + or excessive immorality
 
 #### Scientific method
 
 + mathematical measures are real/**objective**
 + non-math stuff (sunset, sweetness, meaning) is **subjective**:
-	+ in the mind, experience
+    + in the mind, experience
 
 #### Meaning Crisis
 
@@ -147,9 +179,9 @@ __World__:
 __I__:
 
 + am a battle of wills
-	+ our purposes are not real/meaningful
-	+ we are just atoms
-	+ trauma, stress, crisis: disconnection from the world
+    + our purposes are not real/meaningful
+    + we are just atoms
+    + trauma, stress, crisis: disconnection from the world
 
 Dissolution of the axes of meaning
 

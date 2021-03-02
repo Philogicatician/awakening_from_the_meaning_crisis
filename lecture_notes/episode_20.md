@@ -69,10 +69,10 @@
     + whatever pattern/category (eg. book) you find
         + you are making it by speaking about it
         + not by reasoning about it
-	    	+ God is not bound by rationality/coherence
+            + God is not bound by rationality/coherence
 + patterns are not actually there
 + knowledge is just in the head
-	+ the way I'm using the language
+    + the way I'm using the language
 + there is no order in the world
     + order is only in the language
     + the world is absurd, not intelligible in itself
@@ -81,7 +81,7 @@
 + only patterns/order in the world is how we speak about them
     + there is no inherent suchness in things
 + God's will is arbitrary
-	+ humans are arbitrary
+    + humans are arbitrary
 
 ## Bubonic Plague
 
@@ -95,16 +95,18 @@
 + people freely move
 + changing status by selling labor
 + change your life through your own efforts
+    + by *willpower*
+    + in a chaotic reality in which the battle of wills is occurring
 + making money by moving stuff around
 + disparity-demand
 
 ### New Psychotechs
 
 + processing information better:
-	+ Arabic numbers
-	+ negative numbers
-	+ celestial navigation
-	+ Aristotelian way of thinking
+    + Arabic numbers
+    + negative numbers
+    + celestial navigation
+    + Aristotelian way of thinking
 
 #### New Secular Institutions
 

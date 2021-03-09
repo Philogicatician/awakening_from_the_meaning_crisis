@@ -86,7 +86,7 @@
     + __Bacon__: knowledge is power
 + __monastery__: wisdom, self-transformation
     + Luther: monasteries should be closed down
-        + it is an illusion, that we are capable of self-transendence:
+        + it is an illusion, that we are capable of self-transcendence:
             + **sin of pride**
 + loss of *wisdom cultivating* psychotechs:
     + community
@@ -111,18 +111,18 @@
 #### Max Weber's Criticism
 
 + how do you know if you are saved
-	+ provokes anxiety
+    + provokes anxiety
 + paradox of Luther, *double bind*:
     + rely only on your individual conscience
 + your inner world is self-deception
 + work hard to make your life good
     + if you are succeeding in the world socio-economically:
-	    + sign of God's love
+        + sign of God's love
 + unofficial way of knowing if you are saved is success
-	+ but: no self-promotion (pride)
+    + but: no self-promotion (pride)
 + __protestant work ethic__
-	+ put back the money into business
-	+ advent of capitalism
+    + put back the money into business
+    + advent of capitalism
 
 #### Protestantism Fragments
 
@@ -162,7 +162,7 @@
 ## René Descartes (1596-1650) - Scientific Revolution
 
 + wants to address of the anxiety of his age:
-	+ the *uncertainity*
+    + the *uncertainity*
 + using math to come up with a solution to the *meaning crisis*
 
 #### New Psychotechnologies
@@ -172,13 +172,13 @@
     + 3 axes: `x, y, z `
 + rise of **analytic geometry**
     + any geometrical shape can be converted into an algebraic equation
-	+ Galileo: math doesn't have to share the same gestalt as what they represent
-	+ equations capture reality, but they are not *like* what they represent
-	    + `F = m*a`
-	    + `E = m*c**2`
+    + Galileo: math doesn't have to share the same gestalt as what they represent
+    + equations capture reality, but they are not *like* what they represent
+        + `F = m*a`
+        + `E = m*c**2`
 + math cuts through the illusions
     + gives us intoxicating **power**
-		+ eg. weapons
+        + eg. weapons
 + contact the propositional/abstract/symbolic with the fabric of reality
     + is to understand/address the *meaning crisis*:
 + Aristotelian *conformity* gets replaced by propositional *certainty*
@@ -195,15 +195,17 @@
     + removes agency in beliefs
         + and thus meaning in life
     + radical self-doubt, **no evidence**
-    + narcissism
+    + increased self-obsession, narcissism
 + __Descartes__:
     + seeks certainty, **full evidence**
 + increased sense of **disconnectedness**
 
 #### Certainty
 
-+ science cannot provide certainty
-    + see the *uncertainty principle*
++ Descartes' deep irony:
+    + science cannot provide certainty
+        + see the *uncertainty principle*
+    + increased sense of disconnectedness
 + *certainty* is not a solution for **lost connection** with the
     + world
     + ourselves

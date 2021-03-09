@@ -1,10 +1,9 @@
 # Episode 22 - Descartes vs. Hobbes
 
-2 grammars opposing each other:
-
-+ Luther: *consci*ence
-+ Descartes: *consci*ousness
-+ intersect: individual mind
++ two grammars opposing each other:
+	+ Luther: *consci*ence
+	+ Descartes: *consci*ousness
+	+ intersect: individual mind
 
 ## Descartes (D) vs Hobbes (H) - Part II
 
@@ -18,22 +17,26 @@ Letter exchanges on reasoning, rationality:
 
 #### Descartes I
 
-+ rejecting materialism
++ rejecting *materialism*
 + claims of the scientific revolution:
     + matter is real
     + reality is mathematically measured
     + *meaning* and value of things is not in themselves
         + it is *normative*: **what is ought**
 + reasoning vs computation
-    + goal/care/standard of reasoning: truth (acting on purpose)
-+ *truth* depends on *meaning*      
+    + being engaged in reasoning
+    	+ means you actually care about truth
+    + goal/care/standard of reasoning:
+    	+ **truth**
+		+ goal means acting on purpose
+		+ *truth* depends on *meaning*
 + **rationality** is Cartesian
     + rationality in human **reasoning**:
         + it is difficult to integrate rationality with scientific materialism
         + behaving *logically* to get **certainty** in our truths
         + criticism of rationality by Descartes himself
-+ normativity, meaning, purpose are central to reasoning
-+ matter is inert, has no purpose, no meaning
++ normativity/meaning/purpose are central to reasoning
++ matter is inert, has no purpose/meaning
     + cannot have a material reasoner
 + science deals with how things *are*, not what *ought*
     + no normative structures

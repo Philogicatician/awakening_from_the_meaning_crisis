@@ -2,45 +2,61 @@
 
 ## Recap
 
-+ Nietzsche doesn't give appropriate answer to the meaning crisis.
++ Nietzsche: *prophet* of the meaning crisis (MC)
+    + doesn't give appropriate answer to the MC
+    + only an indication of how to re-appropriate the axial legacy
+        + idea of radical self-transcendence *within* a scientific/secular worldview
 + genealogy of the meaning crisis
 
 ## Hegel (H)
 
 + influenced by Kant, Romantics
 + axial era: rationality moves closer to reality
-+ Kant's framing: rational
-    + self-enclosed
-    + *thing in itself*
-+ Romantics: irrational moves us closer to *reality*
-+ Hegel: *thing in itself* is unknowable, indistinguishable from non-existent
++ **Kant**'s model of *reality* vs *rational*:
+    + the *mind* is framing reality
+        + in order to produce what is *rational* *within* it
+    + *reality* is
+        + self-enclosed
+        + *thing in itself*
++ Romantics:
+    + reversing Kant
+    + *irrational* moves us closer to *reality*
+        + *contact* with *reality* via *irrational* states of mind
++ **Hegel**: *thing in itself* is unknowable/indistinguishable from non-existent
     + let's get rid of it
-+ idealism: reality is constructed by the mind
-    + the real is the rational, rational is the real
-        + connection between being and being known
-    + sense of realness
-    + how sth is intelligible, understandable to us (Platonic)
++ __idealism__: **reality is constructed by the mind**
+    + the *real* is the *rational*
+        + and rational is the real
+        + `real == rational`
+    + connection between *being* and *being known* (Parmenides)
+        + sense of realness:
+            + how sth is intelligible/understandable to us (Platonic)
 + Kant: the mind is making the structures of rational experience of reality
 + Hegel: the mind is making the structures of reality itself
-+ irrational part of the mind:
++ *irrational* part of the mind:
     + developmental potential of the reality (Aristotle)
-+ mind in an extended sense: patterns of intelligibility
++ *mind* in an extended sense: patterns of intelligibility
+    + eg. how the *mind* is structuring my experience in the room we are in
     + structuring reality
-    + developmental process
 + notion of *Geist*: spirit & mind
     + living systems of patterns of intelligibility by which we ultimately make sense
-    + patterns of making sense ~ patterns of reality
+    + patterns of making sense `~` patterns by which reality is structured
+    + *absolute idealism*
+    + developmental process
 + how to study the living systems of patterns of intelligibility that structure experience
     + by studying history
 + study of history
     + necessary for understanding reality
     + patterns/grammars of making sense culturally
-    + realizing patterns: experience & made real (develop)
+    + *realizing* patterns:i
+        + to experience/understand sth
+        + to be made real / coming into reality (developmentally)
     + developmental processes of making sense:
           1. __differentiation__: contrasting, articulation: finding division points between things
           2. __integration__: making connection
 + systematization:
-    + like in child development: new systems
+    + like in child development:
+        + the new systems are forming
 + internal development of *Geist* (like a child) through history:
      + a) idea (**thesis**) 
      + b) counter-idea (**anti-thesis**)
@@ -56,7 +72,7 @@
    + self-transcendence, development
    + more and more systematic making sense
 + reaching a point in history where the system of realization becomes aware of itself (H's hybris)
-	+ absolute Geist/idealism
+    + absolute Geist/idealism
 + rationality is a systematic process in the self-development of Geist
     + criticism: impersonal
 
@@ -102,7 +118,7 @@
 ### Criticism:
 
 + secularizing of religion
-	+ danger of totalitarianism
+    + danger of totalitarianism
 
 #### Schopenhauer:
 

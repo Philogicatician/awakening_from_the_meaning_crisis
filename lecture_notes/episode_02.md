@@ -1,11 +1,13 @@
 # Episode 02 - Flow, Metaphor and the Axial Revolution
 
-## Upper-paleolithic Transition - Cognitive Revolution (History)
+## Upper-Paleolithic Transition - Cognitive Revolution (History)
 
 + formative us as human beings
 + cognitive exaptation
-    + of trade, initiation, healing rituals
-+ new psychotechnologies --> shamanism
+    + of trade/initiation/healing rituals
++ new *psychotechnologies*
+    + lead by shamanism
+    + sense of self/reality changes
 + meaning making, self-transcending and spirituality together
 + chaos and warfare is part of the natural order
 
@@ -25,11 +27,11 @@
 + getting into the flow state
     + insight cascade
     + enhanced implicit learning, intuition
-    + "soul flight", getting high
+    + *soul flight*, getting high
 
 ## Flow State (CogSci)
 
-+ "being in the zone"
++ *being in the zone*
 
 ### Description, Environmental Conditions - Csíkszentmihály
 
@@ -51,7 +53,7 @@ Low | Flow Channel | Boredom
     + feedback, failure matters
     + eg. video games, playing jazz, martial arts, rock climbing
 + flow state is deeply positive for people
-    + != physical pleasure
+    + `!=` physical pleasure
     + more flow state ~ more wellbeing, meaning in life
 + universal state (across cultures, classes, languages, ages)
 + **at-onement**
@@ -116,18 +118,20 @@ Implicit learning
               3. failure/error matters
           + --> same conditions for good intuition as for flow
 
-Relationship between Insight and Implicit Learning: 
-    + reinforcement:
-        + insight makes your cognition explore new patterns
-        + implicit learning picks up on the new patterns and restructures them in a new frame --> new insight
-        + insight makes your cognition explore new patterns
+#### Relationship between Insight and Implicit Learning: 
+
++ of reinforcement:
+    + insight makes your cognition explore new patterns
+    + implicit learning picks up on the new patterns and restructures them in a new frame --> new insight
+    + insight makes your cognition explore new patterns
 
 #### Flow and Mystical Experience
 
 + powerful altered state of consciousness enhancing cognitive processing
 + shaman is making meaning:
     + altering what matters to people
-    + altering the sense of identity of people --> transform/heal people
+    + altering the sense of identity of people
+        + transform/heal people
 
 #### Flow and Enhanced Cognition
 
@@ -135,7 +139,7 @@ Relationship between Insight and Implicit Learning:
     + disruption strategies (fasting, social isolation, psychedelics) further enhance it
     + eg. our cognitive capacity for **metaphor** (etymology: meta: across, phero: carry; meaning: to bridge between)
 
-Metaphor (Lakoff)
+#### Metaphor (Lakoff)
 
 + making creative connection between ideas
 + cognition is filled with them (eg. under-stand, grasp, super-vision)

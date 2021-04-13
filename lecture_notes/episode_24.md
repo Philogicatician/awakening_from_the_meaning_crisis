@@ -2,7 +2,7 @@
 
 ## Recap
 
-+ Nietzsche: *prophet* of the meaning crisis (MC)
++ **Nietzsche**: *prophet* of the meaning crisis (MC)
     + doesn't give appropriate answer to the MC
     + only an indication of how to re-appropriate the axial legacy
         + idea of radical self-transcendence *within* a scientific/secular worldview
@@ -137,14 +137,14 @@
     + no transformative experience
 + *epistemic* self-transcendence vs *ethical* self-transcendence
     + **leap of faith**, not reason your way through
-+ like Socrates' beef with natural philosophers
++ like Socrates' beef with the natural philosophers
 + pushes to existentialism
 
 #### Marx:
 
 + history is driven by the *monster* (not the *man* or *lion*):
     + explains socio-economic forces
-+ Feuerbach: religion is a projection, God is an ideal model of my own humanity
++ **Feuerbach**: religion is a projection, God is an ideal model of my own humanity
     + alienates humans from their own role in history
 + religion distracts people from how they are the authors of history
 + shift to materialism: *dialectical materialism*

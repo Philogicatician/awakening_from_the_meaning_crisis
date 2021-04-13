@@ -10,7 +10,7 @@
         + *sophrosyne*: the salience landscape (SL) self-organizes away from self-deception, a tempts towards *true/good*beautiful*
     + coordinating kinds of knowing:
         + propositional - inference
-        + proceduaral - insight
+        + procedural - insight
         + perspectival - internalization
             + realizing *sophrosyne*
             + cultivate a more moral existence, virtues, coping/caring, meaning in life

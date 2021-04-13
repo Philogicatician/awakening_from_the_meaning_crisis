@@ -12,24 +12,25 @@
 
 ## Axial Revolution (800-300 BC)
 
-### New psycho-technologies
+### New Psychotechnologies
 
 + coinage
 + improved abstract symbolic thinking, mathematical reasoning
-+ internalized, exapted to second order thinking
++ internalized, exapted to *second order thinking*
 + alphabetic literacy
     + Greeks:
         + add vowels
         + standardize left-to right reading
         + more efficient, expansion of literacy
         + enhanced distributed cognition, enhanced self-awareness
-+ internalized into meta-cognition (awareness of our cognition) --> second order thoughts
++ internalized into meta-cognition (awareness of our cognition)
+	+ second order thinking
 
 ### Changes in cognition
 
 + enhanced awareness of
-    + self-correction/transcendence
-    + our capacity for self deception, illusion
+    + **self-correction/transcendence**
+    + **our capacity for self deception, illusion**
     + meaning making nature of cognition
     + responsibility for violence, chaos, suffering
     + how transformation of mind & heart alleviates suffering

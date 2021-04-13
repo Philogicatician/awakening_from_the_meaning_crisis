@@ -96,6 +96,14 @@ Caspar David Friedrich: Wanderer above the Sea of Fog (German: Der Wanderer übe
         + no matter how many levels you achieve in your practice,
             + you are not realizing what was already there right from the beginning
 6. what's the difference between alethea/sati/remembering the being mode and the Romantic expressing the true authentic self that has always been there ?
+7. axial revolution: the emergence of self-reflection/correction
+    + are the ability for self-correction and self deception the two sides of the same coin ?
+        + running on the same machinery ?
+    + the Bible: is self-awareness the original sin ?
+         + missing the mark with greater self-awareness ?
+    + the Buddha: is this greater self-awareness that causes dukkha ?
+        + walking on a razor's blade between greater self awareness and greater self-deception ?
+    + is the axial age where the "modern" sense of self arises ?
 
 ## TODO's
 

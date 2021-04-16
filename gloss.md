@@ -197,12 +197,33 @@ Free-form role-playing games designed by `Vi åker jeep` (*We go by Jeep*) group
 # Kinds of Knowing
 
 ## Propositional
+
++ knowing *what*
++ beliefs
+
 ### Episteme
 ## Procedural
+
++ knowing *how*
+    + eg. language, basketball
+
 ### Techne
+
 ## Perspectival
+
++ situational awareness
+    + salience landscape
++ knowing through a particular state of consciousness
+
 ### Noesis
 ## Participatory
+
++ there is *us* and the *world*
+    + we are fitted to each other in a particular way
+        + *agent-arena* relationship
+    + the that we participate in the world
+        + the world creates us
+
 ### Gnosis
 
 + knowing by *being* (eg. by being conscious)

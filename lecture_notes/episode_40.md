@@ -150,7 +150,7 @@ People generally acknowledge the principle that should be used in these tasks,
 but do not apply it.  
 + eg. knowing that you should evaluate an argument independently, otherwise no
     rationality is possible
-+ eg. conjunction fallacy, confirmation bias, waste and selection task
++ eg. conjunction fallacy, confirmation bias, [Wason selection task](https://en.wikipedia.org/wiki/Wason_selection_task)
 
 #### Experiment III
 

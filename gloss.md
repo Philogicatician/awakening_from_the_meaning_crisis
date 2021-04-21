@@ -273,15 +273,87 @@ Free-form role-playing games designed by `Vi åker jeep` (*We go by Jeep*) group
 
 ## Nomological
 
-+ sense of coherence
++ sense of **coherence**
 
 ## Normative
 
-+ sense of significance
++ sense of **significance**
 
 ## Narrative
 
-+ sense of purpose
++ sense of **purpose**
+
+# [Rationality](https://www.youtube.com/watch?v=suwJgFpBVOM)
+
++ the predominant notion of rationality is truncated
+    + misrepresenting human cognition
+    + misdirecting the aspirational projects of human beings
+
+## Rationality is NOT
+
++ __logicality__
+    + we cannot be comprehensively algorithmic in our processing
+        + we fall into *combinatorial explosion* iCE) in the search space
+    + rationality *is* where/when/what degree/under which context one should be logical
++ __intelligence__
+    + capacity for relevance realization
+        + for problem solving
+        + to avoid *combinatorial explosion* (CE)
+        + **but**: the very processes that make us adaptively capable to zero in on relevant info (to avoid CE)
+            + make us perennially vulnerable to self-deceptive/destructive behaviors
+        + the use of intelligence as general problem solving also creates pervasive kinds of self-deception
+    + correlation between *intelligence* and *rationality*: `0.3`
+        + intelligence is a necessary, but insufficient condition of rationality
+
+## Rationality IS
+
++ use of *intelligence* to learn skills/virtues/identities/roles
+    + that allow you to systemically/systematically address self-deception
++ fundamental capacity for self-correction
+
+## Knowing
+
+### Is NOT
+
++ just propositional knowing
+
+### IS also
+
++ procedural/perspectival/participatory
+
+### Self-Deception
+
++ we can fall pray to self-deception with
+    + propositional: bad inference
+    + procedural
+    + perspectival: egocentrism
+    + participatory: reciprocal narrowing/addiction
++ we need a rationality that addresses all of these
+    + and a **meta-rationality** that coordinates them together
+        + by the acquisition of skills/virtues/roles/identity/character
+        + and that is a good candidate of what **wisdom** is
+
+## Knowledge
+
++ *is* to gather evidence
+	+ to justify a claim
+	+ to appropriately apply a skill
+
+## Understanding
+
++ is *not* knowledge
++ *is* to grasp the significance of what you know
+    + of states of mind/character in a particular situation
++ *wisdom* incorporates *understanding*
+
+## Comprehension
+
++ problem formulation / construal
+
+## Wonder and Rationality
+
++ the *ah*
+    + at the horizon of intelligibility
 
 # Relevance Realization (RR)
 

@@ -18,17 +18,17 @@
 
 ### How things grow, change - Aristotle I
 
-+ idos: structural-functional organization (logos, gestalt)
++ *eidos*: structural-functional organization (logos, gestalt)
     1. what makes a bird a bird
     2. a pattern by we know what a bird is
-+ more dynamical approach of idos: development
++ more dynamical approach of *eidos*: development
 
 #### Analogy with artefacts
 
 + block of wood --> make it to a chair, table
 + **actuality**: what makes the wood act like a chair vs a table
 + making a chair is an important change
-    + form/idos: structural-functional organization
+    + form/eidos: structural-functional organization
 + the wood is **potential**
     + wood has a potential chair, table
     + once made starts acting like a chair, table
@@ -76,53 +76,60 @@ Why did the Newtonian model take over so quickly after the Aristotelian model ?
 2. we need to understand this, because we need to understand that we are living things that grow and develop, and growing and development are integral to our meaning and our sense of who and what we are
 
 Idea from Aristotle in the explanation: dynamical systems theory: 
-1. causes == events
+1. causes `==` events
     + make things happen
     + **actuality**
-2. constraints == conditions
+2. constraints `==` conditions
     + make things possible
     + **potentiality**
     + formal cause, structural-functional organization (Aristotle)
     + eg. conditions are structural-functional organized so that they make motion possible
-    a. enabling constraints - make an event more possible
-    b. selective constraints - reduce the possibility of events
+        a. *enabling* constraints
+            + make an event more possible
+        b. *selective* constraints
+            + reduce the possibility of events
 
 Tree: 
-+ biochemical events happening --> cause an idos/structural-functional organization
-+ structure of the tree shapes the possibility of the events (leaves grow sideways to get more photons in)
-    + structure constrains the events
 
-`F = ma` (force = mass * acceleration)  
-+ not an event, but potentiality
++ biochemical events happening
+    + cause an eidos/structural-functional organization
++ structure of the tree shapes/constraints the possibility of the events
+    + eg. leaves grow sideways to get more photons in
 
-**Evolution** - one of the most significant theories of development and change 
-+ natural selection: 1st dynamical systems theory
++ `F = ma` (force = mass * acceleration)  
+    + not an event, but potentiality
+
+**Evolution** - one of the most significant theories of development and change
+
++ **natural selection**: 1st dynamical systems theory
 + feedback cycle: sexual reproduction (like an accordion)
-    + selective constraints: scarcity of resources <-- competition
+    + **selective constraints**: scarcity of resources
+        + competition
         + reduction of options
-    + enabling constraints: variation
+    + **enabling constraints**: variation
         + increases options
 + increased variation opens up, pushed back down by the scarcity
-    + --> constantly changing to be better fitted to the environment
-    + circle (volvere)
-+ influenced by Aristotelian ideas of actuality and potentiality
-
+    + constantly changing to be better fitted to the environment
+    + circle (*volvere*)
++ influenced by Aristotelian ideas of **actuality** and **potentiality**
 + **virtual engine**: systematically regulating a feedback cycle:
-    + selective constraint: **virtual governor** (limits what you can do in a system)
-    + enabling constraint: **virtual generator** (generating options for a self-organizing system)
+    + selective constraint: **virtual governor**
+        + limits what you can do in a system
+    + enabling constraint: **virtual generator**
+        + generating options for a self-organizing system
 
-### How things grow, change - Aristotle II
+### How things grow/change - Aristotle II
 
 + interested in our development
     + Socrates: wisdom is to overcoming self-deception
     + Plato: adding structure to the theory of the psyche to explain overcoming self-deception
-    + Aristotle: missing: how wisdom develops, grows
+    + Aristotle: how wisdom develops/grows
 
 #### How wisdom develops
 
 + character (=! personality)
     + you can cultivate it explicitly
-    + (virtue: hatóerő, erény) --> virtual engine
+    + *virtue*: `-->` virtual engine
     + set of constraints that have been systematically cultivated in somebody
 + what is the virtual engine in the person's development
      + system of constraints identified with / internalized
@@ -143,16 +150,17 @@ Tree:
 
 + self-organization has been regulated and shaped into self improvement
 
-A. adds the growth aspect to wisdom: 
+Aristotle adds the growth aspect to wisdom: 
 + create your virtual engine: set of virtues that regulate growth
 + so that you actualize your potential
 
-Akrasia:  
+**Akrasia**:
+
 + deep form of foolishness that comes from a lack of character
-+ (bad translation: lack of will (<-- Protestant))
+	+ (bad translation: lack of will (Protestant)
 + you know what's right to do, but you don't do it
-    + you have the right believes, but you don't have sufficient character  (not trained skills and sensibilities)
-+ != ignorance: you don't know what is the right thing
+    + you have the right believes, but you don't have sufficient character (not trained skills and sensibilities)
++ `!=` ignorance: you don't know what is the right thing
 
 #### What is it to living up to your potential
 
@@ -160,7 +168,7 @@ Akrasia:
 + analogy with artefacts:
     + how do we know sth is well made ?
         + has a structural-functional organization that allows it to fulfill its purpose
-+ humans are self making: autopoietic
++ humans are self making: *autopoietic*
     + difference with tornado: self-organizing, but can be rapidly self-destructive
     + promote your self-organization, seek out conditions
         + your purpose: enhance your structural-functional organization

@@ -126,7 +126,7 @@ Halfway through the lecture. | lecture | space
 #### Criticism of Lakoff
 
 + the embodied/participatory/source domain/project gets *projected* up
-into target/abstract thought
+	+ into target/abstract thought
 
 Metaphor | abstract/target | physical/source
 --- | --- | ---
@@ -144,35 +144,29 @@ argument | ok | NA | ok
 castle | ok | ok | NA
 
 + source/physical and target/conceptual point to each other:
-    + bottom up projection (physical --> conceptual), top down
-emanation (conceptual --> physical)
+    + **bottom up projection** (physical --> conceptual),
+    + **top down emanation** (conceptual --> physical)
     + interaction, dynamic process
 + do you `see/get/grasp/understand` *my point*
     + the target (*my point*) selects/constraints for the source
 
 #### Symbol processing
 
-+ reference --> exemplification --> participation --> metaphor -->
-profoundity --> **holding in mind**
++ reference --> exemplification --> participation --> metaphor --> profoundity --> **holding in mind**
 + eg. justice
     + to reflect/contemplate it we invoke the symbol of a scale --> *balance*
         + allows us to hold justice in mind and engage/participate in it
 + the brain is a self-exaptation machine (both evolutionary and developmentally)
     + eg. tongue --> speech
     + __upward__ process: from physical to abstract/conceptual
-    + side effects are a dynamic set of capacities that could be made
-into a new structural-functional organization to do a new thing
+    + side effects are a dynamic set of capacities that could be made into a new structural-functional organization to do a new thing
         + circuit reuse
         + side effects become central effects --> new capacity
-    + eg. cerebellum; physical *balance* --> integrate different areas
-of the brain
-        + original function/operation: taking info from different
-sense modalities, finding patterns of contingency
-        + exapted function/operation: find coordination between any
-areas of the brain
+    + eg. cerebellum; physical *balance* --> integrate different areas of the brain
+        + original function/operation: taking info from different sense modalities, finding patterns of contingency
+        + exapted function/operation: find coordination between any areas of the brain
             + eg. integrate vision & working memory --> visual imagination
-+ when invoking the symbol for justice, scale/balance, the brain goes
-through a __downward__ process, and activates the cerebellum
++ when invoking the symbol for justice, scale/balance, the brain goes through a __downward__ process, and activates the cerebellum
     + going back through exaptation
     + symbol of justice --> balance --> cerebellum
     + symbols trace down to the physical/participatory level, help to

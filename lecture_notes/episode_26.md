@@ -41,13 +41,15 @@ Inference:
 + identity relation
 + restructures Sam
 + balance between distance and identity: metaphor is *apt*
-+ identity too strong: > Bees are hornets.
++ identity too strong: `Bees are hornets.`
       + no insight
-+ difference too great: > Arguments are chairs.
++ difference too great: `Arguments are chairs.`
       + made by humans
       + daily usage
 
 ### Apt balance of theoretical constructs between disciplines
+
+#### Plausibility
 
 + see sth in psycho through the lens of linguistics
 + constructs that provoke insightful transformations

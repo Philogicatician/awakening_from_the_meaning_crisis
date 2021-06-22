@@ -30,6 +30,15 @@
 
 + the state where Socrates leads you with his method of incessant questioning
 
+# Aporia
+
++ state of confusion
++ Socrates (ep 04)
+
+## Etymology
+
++ *a* and *poros*: 'without' and 'passage'
+
 # Attentional Scaling
 
 ## Scaling Down

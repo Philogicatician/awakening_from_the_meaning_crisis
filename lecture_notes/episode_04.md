@@ -9,10 +9,19 @@
          + intervenes at *kairos*: brings us back on course
     + prophets: moral redemption of history
 + axial age in Greece
-    + Pythagoras: enhance our ability to discover hidden patterns
-        + through that we transform ourselves, fly free, liberate ourselves from the illusory world
-        + influence on Plato
-        + word: `philia + sophia`
+    + __Pythagoras__:
+        + we are trapped in this world
+            + but: there are hidden mathematical proportions in the world
+            + we have to enhance our ability to discover hidden patterns
+                + with rational reflection
+                + through that, we transform ourselves / fly free / liberate ourselves from the illusory world
+        + from *soul flight* to *self-transcendence*
+        + *cosmos*
+            + experiencing the world as radically beautiful
+                + through music/math
+            + like in an altered state of consciousness
+            + transcendence
+        + huge influence on Plato
 
 ## Socrates
 
@@ -67,6 +76,7 @@ __Thales__:
 1. `All is the moist.`
     + the underlying substance of things is water
     + reason & observation for a plausible explanatopn
+    + **underlying substance**
 2. `Loadstone is psyche.`
     + *loadstone* `==` magnet
     + magnets move themselves and others
@@ -79,6 +89,7 @@ __Thales__:
         2. magnets can move and move other things
         3. magnet also has psyche
     + looking for the underlying force behind things
+    + **underlying force**
 3. `Everything is filled with gods.`
     + not a throwback to mythology
     + ontology: study of being, structure of things
@@ -88,10 +99,12 @@ __Thales__:
         + connect to what's most real
         + make most sense of things
             + experience it as sacred
+    + **underlying structure**
 
 __Anaxagoras__:
 
 + sun is not a god, but a hot rock
+    + gets him into trouble
 
 #### Socrates' rejection of natural philosophers
 
@@ -134,6 +147,12 @@ __Henry Frankfurt__:
     2. attention can be captured by sth salient
         + 1) and 2) feed on each other
 
+#### Confirmation Bias
+
++ we seek information that confirms our beliefs
+    + and avoid information that challenges it
++ age of *confirmation porn*
+    + technologically enhanced confirmation bias through social media
 
 ####  Socrates' antagonistic relationship to the Sophists
 
@@ -184,10 +203,10 @@ P: ...
 + reaction of people:
     + people get angry `-->` pisses them off `-->` leads to trial
     + people get insight and start pursuing wisdom
-	    + find a way how relevance and truth can enable each other
+        + find a way how relevance and truth can enable each other
 + S finds a solution to his dilemma through observing the effect of his method on people
     + he knew what he did not know:
-	    + I'm pursuing sth and I don't know why.
+        + I'm pursuing sth and I don't know why.
 
 #### Trial
 

@@ -3,7 +3,7 @@
 ## Recap
 
 + your sense of growth/development is constitutive of the meaningfulness of your life
-+ growth: idos is being in-formed
++ growth: *eidos* is being *in-formed*
     + in-formation: actualizing the potential of sth
 + wisdom is a cultivation of character
     + create a virtual-engine that regulates the self-making, so that you actualize your potential
@@ -13,46 +13,48 @@
 
 ## Rationality
 
-+ != logic
++ `!=` logic
 + second order thinking: step back, and reflect on
-    + how you are being self-deceptive, delusive
-    + capacity for self-correction, and self-transcendence
+    + how you are being self-deceptive/delusive
+    + capacity for self-correction/self-transcendence
         + realizing your potential through cultivation of character
-+ contact with reality (<-- Plato, the other meta-drive)
++ contact with reality (`<--` Plato, the other meta-drive)
     + core motivation of rationality with reliable means
 
 ### Theory of Knowing - Conformity Theory
 
 #### What it is to know sth ?
 
-Which is better ? 
-+ accurate description of sth
-+ vs be-cause (create, make) sth
+Which is better knowledge? 
+
+1. accurate description of sth
+2. vs be-cause (create, make) sth
 
 What is it that the maker has that the descriptor does not ? 
-+ the maker has idos/structural-functional organization in his mind
-+ the maker can actualize the idos to make the thing
 
-> To know sth is to possess the same idos of it in the mind.
++ the maker has eidos/structural-functional organization in his mind
++ the maker can actualize the eidos to make the thing
+
+> To know sth is to possess the same eidos of it in the mind.
 
 + not the same matter but the same form
 + **con-formity**
     + when I know sth I share the same form with it
-    + my mind takes on the same idos as the thing
-    + taking that idos out of my mind, I could actualize that thing, make an instance of it, be-cause it
+    + my mind takes on the same eidos as the thing
+    + taking that eidos out of my mind, I could actualize that thing, make an instance of it, be-cause it
 + eg. to know a cup
     + describe its shape (as an analogy of form) independently
         + having beliefs
     + or to con-form to the cup
         + grasp it, and take its shape, change in my being
         + causally interact with it in an intimate, complex way
-+ con-formity: no distinction between knowing and being
++ *con-formity*: no distinction between knowing and being
     + my structure is being changed by knowing
-+ conformity theory: contact epistemology:
++ __conformity theory / contact epistemology__:
     + to know sth is to be in contact with it
     + to know st is to participate in the same form
         + **participatory knowing**:
-            +  when I shape myself in order to know it
+            + when I shape myself in order to know it
             + to know it by conforming to it
         + different from **propositional/descriptive knowing**
             + standing apart and generating propositions about the thing
@@ -61,17 +63,17 @@ What is it that the maker has that the descriptor does not ?
     + theory of knowing and being at the same time
         + satisfies the desire to being in contact with reality
 
-The structural-functional organization / patterns of intelligibility (<-- Plato) is the same pattern by which the thing is organized. 
+The structural-functional organization / patterns of intelligibility (`<--` Plato) is the same pattern by which the thing is organized. 
 
-+ when making sense of sth I share the same structural-functional organization of what I1m making sense of
++ when making sense of sth I share the same structural-functional organization of what I'm making sense of
     + when making sense of things, the pattern in the mind is the same as in the pattern in the world
 + but: not everything I think is true
-    + only after doing the axial/Socratic/Platonic rational reflection we get to idos/structural-functional organization
+    + only after doing the axial/Socratic/Platonic rational reflection we get to eidos/structural-functional organization
 
 Process/test of trying to determine whether st is real
 
 1. relevant organ of cognition is functioning normally; mind operating optimally
-2. env is not creating distortions; medium operating optimally
+2. environment is not creating distortions; medium operating optimally
 3. convergence of multiple sources/senses; intersubjective agreement
 
 + if 1-3. holds, you are in conformity with reality
@@ -85,7 +87,7 @@ Process/test of trying to determine whether st is real
 + geocentric worldview
     + we are at the center
     + counter argument against the Earth rotating theory:
-        + if I drop sth, it falls down, not flying away (<-- no theo of gravitation yet)
+        + if I drop sth, it falls down, not flying away (`<--` no theory of gravitation yet)
         + not true, but logical argument
     + supported by the conformity theory
 + things move for the same reason you move
@@ -94,9 +96,9 @@ Process/test of trying to determine whether st is real
          + everything is moving to its natural place
     + internal drive
     + everything in the cosmos is moving on purpose, meaningfully
-+ things are made up of 3 basic elements:
++ things are made up of 4 basic elements:
     + earth
-        + things with much earth elements want to move to the earth/doen
+        + things with much earth elements want to move to the earth/down
     + water
         + in the surface
     + fire
@@ -112,30 +114,30 @@ knowing how to make sth |
 agent | arena
 
 + con-formity theory and geocentric world/cosmos mutually support each other
-    + con-formity theory and tests (tof rational reflection) supports the geocentric view
-    + geocentric world/cosmos provides evidence for the con-formity theo
+    + con-formity theory and tests (of rational reflection) supports the geocentric view
+    + geocentric world/cosmos provides evidence for the con-formity theory
 + your understanding of your understanding is bound to the understanding of the world
     + account of how you know the world bound with the account of the world
-+ --> new worldview
++ leads to a new worldview
 
 #### Features of A's worldview
 
 + makes sense of your actions
 + world organized according to purpose
 + things are moving on purpose to where they belong
-+ structure of the world ~= structure of your experience
++ structure of the world `~=` structure of your experience
 + this world is an **arena**: place where you know how to act in it
     + makes sense to you
     + you know where things belong
     + you know what actions are appropriate
     + you know how to measure and calibrate your performance/actions
-    + eg. football player in the arena can con-form (behave and inteact) powerfully
+    + eg. football player in the arena can con-form (behave and interact) powerfully
 + **agent**: to be capable of pursuing your goals
-     + to be able to organize your cognition and behavior so that your actions fit the situ/env
+     + to be able to organize your cognition and behavior so that your actions fit the situation/environment
 + a worldview is to have an agent-arena coupling
     + A explains how to become an agent: how to know and structure yourself accordingly
     + A explains how the world is organized, so that you can meaningfully interact with it
-    + --> process of **co-identification**
+    + `-->` process of **co-identification**
         + e.g. professional football player in the arena
 
 #### Co-Identification
@@ -145,7 +147,7 @@ agent | arena
 + assigning an identity of everything around me
     + eg. the audience, things facilitation the giving of a talk
 + assigning arena and assuming identity are co-defining together
-+ co-identifying agenca nad arena: **existential mode** (Geertz, Buber, Fromm, explaining (not) religion)
++ co-identifying agency and arena: **existential mode** (Geertz, Buber, Fromm, explaining (not) religion)
     + getting a coherent and functioning worldview
     + **meta-meaning** relations
         + if you don't have an agent arena relationship, your actions have no meaning (eg. tennis player in a football arena)
@@ -175,7 +177,7 @@ agent | arena
 > To have a worldview that is demonstrating a worldview attunement, and it is affording existential modes in which agent-arena relationships are unfolding and blossoming naturally, so that the person is not experiencing absurdity.
 
 + deep connectedness of making sense of the world and the existential project of finding meaning and belonging
-+ nomos: law
++ *nomos*: law
      + what makes the universe law-like, so that it is a cosmos for us
 + convergence of scientific explanations of the world and our endeavours to existentially dwell within it
 + if the nomological order breaks down, we start experience absurdity
@@ -240,7 +242,7 @@ goal | problem solving | make meaning
     + eg. being in love:
         + trying to become sth and afford the other become sth
         + meeting your needs of meaning, maturity, growth, development
-        + mutual development, mutual/reciprocal realization (~ anagoge)
+        + mutual development, mutual/reciprocal realization (`~` anagoge)
 
 #### Modal Confusion
 

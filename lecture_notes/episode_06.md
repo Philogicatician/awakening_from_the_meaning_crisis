@@ -2,11 +2,11 @@
 
 ## Recap
 
-+ Plato' notion of wisdom: anagogic process
++ Plato's notion of wisdom: anagogic process
     + aligning parts of psyche
-    + leads to achieving the meta-drive of inner peace
+    + leads to achieving the meta-drive of **inner peace**
     + connection between knowing ourselves and knowing the world
-         + allows to achieve the other meta-drive of being touch with reality
+         + allows to achieve the other meta-drive of **being touch with reality**
 
 ## Aristotle
 
@@ -18,14 +18,15 @@
 
 ### How things grow, change - Aristotle I
 
-+ *eidos*: structural-functional organization (logos, gestalt)
++ *eidos*: structural-functional organization (logos/gestalt)
     1. what makes a bird a bird
     2. a pattern by we know what a bird is
 + more dynamical approach of *eidos*: development
 
 #### Analogy with artefacts
 
-+ block of wood --> make it to a chair, table
++ block of wood
+    + what makes it to a chair/table
 + **actuality**: what makes the wood act like a chair vs a table
 + making a chair is an important change
     + form/eidos: structural-functional organization
@@ -33,17 +34,17 @@
     + wood has a potential chair, table
     + once made starts acting like a chair, table
 + **in-formation**: put a form into sth, actualizing its potential
-    + give it a structural-functional organization, so it starts acting like chair, table
+    + give it a structural-functional organization, so it starts acting like chair/table
 
-Analogy with the development of living things:
+#### Analogy with the development of living things
 
 + living things doing change on themselves
 + a living thing is like a chair making itself
-    + eg. food --> you in-form it --> it becomes you
+    + eg. food `-->` you *in-form* it `-->` it becomes you
 
 #### How you connect to the world/reality
 
-### How things grow, change - scientific revolution
+### How things grow/change - scientific revolution
 
 + change occurs be-cause of a causal impact (Newton)
     + `A --> B --> C` (events are in causal order)
@@ -76,6 +77,7 @@ Why did the Newtonian model take over so quickly after the Aristotelian model ?
 2. we need to understand this, because we need to understand that we are living things that grow and develop, and growing and development are integral to our meaning and our sense of who and what we are
 
 Idea from Aristotle in the explanation: dynamical systems theory: 
+
 1. causes `==` events
     + make things happen
     + **actuality**
@@ -96,7 +98,7 @@ Tree:
 + structure of the tree shapes/constraints the possibility of the events
     + eg. leaves grow sideways to get more photons in
 
-+ `F = ma` (force = mass * acceleration)  
++ `F = ma` (force = mass * acceleration)
     + not an event, but potentiality
 
 **Evolution** - one of the most significant theories of development and change
@@ -135,6 +137,8 @@ Tree:
      + system of constraints identified with / internalized
 + how much time did you spend today on your character (vs appearance and status) ?
 + how to cultivate your character
+    + not by *willpower*
+        + *willpower* is a defunct idea
     + golden mean
     + what is courage: golden rule mean between
         + coward: lacking enabling constraints
@@ -157,7 +161,7 @@ Aristotle adds the growth aspect to wisdom:
 **Akrasia**:
 
 + deep form of foolishness that comes from a lack of character
-	+ (bad translation: lack of will (Protestant)
+    + (bad translation: lack of will (Protestant)
 + you know what's right to do, but you don't do it
     + you have the right believes, but you don't have sufficient character (not trained skills and sensibilities)
 + `!=` ignorance: you don't know what is the right thing

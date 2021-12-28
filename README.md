@@ -2,7 +2,7 @@
 
 Notes to the [lecture series](https://www.youtube.com/playlist?list=PLND1JCRq8Vuh3f0P5qjrSdb5eC1ZfZwWJ) by John Vervaeke.  All credit for these notes should really go to [lilasaba](https://github.com/lilasaba?tab=repositories).  
 
-I've only made minor changes to create links so that these Markdown notes will generate a knowledge graph within [Obsidian](https://obsidian.md/) (which, btw, is free for personal use).  Obsidian is pretty amazing & this [playlist](https://youtube.com/playlist?list=PL3NaIVgSlAVLHty1-NuvPa9V0b0UwbzBd) by Nick Milo is a quick & painless way to get started.
+I've only made minor changes to create links so that these Markdown notes will generate a knowledge graph within [Obsidian](https://obsidian.md/) (which, btw, is free for personal use).  Obsidian is pretty amazing, and this [playlist](https://youtube.com/playlist?list=PL3NaIVgSlAVLHty1-NuvPa9V0b0UwbzBd) by Nick Milo is a quick & painless way to get started.
 
 All of the ReadMe file below is forked from milasaba's [original repository](https://github.com/lilasaba/awakening_from_the_meaning_crisis).  I will leave them as is since I've found them helpful, and they'll serve as a personal reminder to fulfill some of their intention for these notes.
 
